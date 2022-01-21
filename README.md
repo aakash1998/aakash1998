@@ -14,3 +14,5 @@ Here are a few things that describes me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a foddie.
 
+
+[![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash1998)](https://github.com/aakash1998/github-readme-stats)
