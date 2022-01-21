@@ -12,7 +12,7 @@ Here are a few things that describes me:
 - 💬 Ask me about anything, I'll be happy to help you.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aakashpatel05/) | [Twitter](https://twitter.com/itsAP30) | [Email](mailto:helloaakash30@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a foddie.
+- ⚡ Fun fact: I love learning.
 
 
 [![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakash1998)](https://github.com/aakash1998/github-readme-stats)
